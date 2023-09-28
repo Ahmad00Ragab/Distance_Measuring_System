@@ -3,5 +3,5 @@ Developing a system that measure the distance by using an UltraSonic Sensor and 
 - **Drivers**        : GPIO, ICU, Ultrasonic Sensor and LCD - Microcontroller: ATmega32.
 - **Microcontroller**: ATmega32
 
-![Simulation-Screeshot](./Capture.PNG)
+![Simulation-Screeshot](./Distance_Measuring_System.PNG)
 
